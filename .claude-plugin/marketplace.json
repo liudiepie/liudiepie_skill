@@ -11,7 +11,7 @@
       "name": "liudiepie",
       "source": "./",
       "description": "High-efficiency 4-phase engineering workflow that prevents wasted tokens, eliminates AI code slop, and proves correctness with runtime evidence.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "development"
     }
   ]

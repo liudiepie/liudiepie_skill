@@ -47,7 +47,7 @@ Make regressions mechanically impossible instead of relying on fragile prose rem
 
 Deliver concrete before/after proof rather than unverified "looks good to me" diffs.
 
-1. Run the project's typechecker, linter, and relevant test suite, resolving any errors or warnings introduced by your edits.
+1. Run the project's typechecker, linter, and relevant test suite, resolving any errors or warnings introduced by your edits. If the project's CLAUDE.md has a `## liudiepie verification` section (written by `/setup-liudiepie`), use exactly those commands.
 2. Exercise the real code path end-to-end (CLI command, API request, or browser/UI check) and capture concrete runtime output proving the feature works or the bug is fixed.
 3. Run a 2-pass self-review on the final diff:
    - Intent pass: Confirm every requirement and edge case agreed in Phase 1 is satisfied.

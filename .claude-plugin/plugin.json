@@ -1,6 +1,6 @@
 {
   "name": "liudiepie",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "High-efficiency 4-phase engineering workflow (Grill and Align, Investigate and Scope, Build with Constraints, Verify with Evidence) that prevents wasted tokens, eliminates AI code slop, and proves correctness with runtime evidence.",
   "author": {
     "name": "Cheng Liu"
